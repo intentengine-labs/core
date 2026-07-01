@@ -1,6 +1,8 @@
-# Introduction
+---
+title: "Introduction"
+description: "Welcome to IntentEngine, the compiler-based intent execution engine for autonomous AI."
+---
 
-Welcome to IntentEngine, the compiler-based intent execution engine engineered for autonomous AI systems.
+## What is IntentEngine?
 
-## Stop scripting workflows; start compiling intent.
-Instead of telling the AI *how* to do a task step-by-step, you provide an abstract **Goal** bound by multi-dimensional **Constraints**. IntentEngine compiles this intent into a mathematical **Execution State Space (ESS)** and dynamically solves the optimal execution path at runtime.
+IntentEngine shifts the paradigm from **workflow scripting** to **intent compilation**. Instead of defining hardcoded step-by-step paths, you define the abstract goal and multi-dimensional constraints. The engine compiles the intent into an Execution State Space (ESS) and resolves the optimal path dynamically.
